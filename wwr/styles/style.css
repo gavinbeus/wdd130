@@ -203,5 +203,10 @@
     .mainfork-img {
         border:  #DDA15E;
     }
+    .home-two {
+        float: left;
+        width: 33.33%
+        padding: 5px;
+    }
 
   
